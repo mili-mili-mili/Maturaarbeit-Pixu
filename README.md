@@ -6,7 +6,7 @@ Python-Programme und Messdaten zur Flächenbestimmung mit Pixu (mBot2)
 
 Kantonale Maturitätsschule für Erwachsene Zürich (KME)
 
-Maturaarbeit | November 2026
+Maturaarbeit | 20. November 2026
 
 ## 1. Projektbeschreibung
 
