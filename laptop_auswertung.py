@@ -6,7 +6,7 @@ from pathlib import Path
 from datetime import datetime
 import matplotlib.pyplot as plt
 
-port = 8180
+port = 5000
 Rad_Umfang = 20.2
 vorzeichen_rechts = -1
 
