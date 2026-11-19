@@ -1,0 +1,3 @@
+Fläche: 3361.27 cm²
+Abstand zum Start: 1.62 cm
+Messpunkte: 157
